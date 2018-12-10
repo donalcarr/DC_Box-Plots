@@ -19,7 +19,7 @@ The assignment is contained in a jupyter notebook file (.ipynb) that can be down
 The code was written in python using the Anaconda distribution platform.
 
 ### Project Plan
-18 November - 24 November - create notebook and research box plots
-25 November - 01 December - research dataset and create box plot
-02 December - 08 December - explain box plot terminology
-09 December - 14 December - add alternatives to box plots/add bibliography
+- 18 November - 24 November - create notebook and research box plots
+- 25 November - 01 December - research dataset and create box plot
+- 02 December - 08 December - explain box plot terminology
+- 09 December - 14 December - add alternatives to box plots/add bibliography
