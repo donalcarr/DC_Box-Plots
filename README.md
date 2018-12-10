@@ -1,20 +1,20 @@
 # DC_Box-Plots
 
-## Assignment 2018 - Investigate and explain box plots
+## Project 2018 - Investigate and explain box plots
 
-### Assignment tasks:
+### Project tasks:
 Summarise the history of the box plot and situations when it is used
 Demonstrat the use of the box plot using data of your choosing
 Explain any relevant terminology such as the terms quartile and percentile
 Compare the box plots to alternatives
 
-### Assignment structure and points
-Project functionality in Github was used to plan tasks and store references as assignment was being completed
+### Project structure and points
+Project functionality in Github was used to plan tasks and store references as Project was being completed
 
 Bibliography contained in the jupyter notebook is a reference to articles/ sites visited or where a direct quote was used
 
-### How to view assignment/ run notebook
-The assignment is contained in a jupyter notebook file (.ipynb) that can be downloaded to your personal computer and run in jupyter notebook. It can also be viewed in Github.
+### How to view Project/ run notebook
+The Project was produced in a jupyter notebook file (.ipynb) that can be downloaded to your personal computer and run in jupyter notebook. It can also be viewed in Github.
 
 The code was written in python using the Anaconda distribution platform.
 
